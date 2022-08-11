@@ -1,0 +1,394 @@
+.main{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 900px;
+    background-color:gray;
+
+}
+
+.div2{
+    width: 910px;
+    height: 60px;
+    position: relative;
+    left: 10px;
+    top:10px;
+    background-color:white;
+    box-sizing: border-box;
+}
+
+.first{
+    position: relative;
+    left: 20px;
+    top: 15px;
+    font-size:22px;
+}
+.second{
+    position: absolute;
+    top: 1px;
+    right: 244px;
+    font-size: 22px;
+}
+.third{
+    position: absolute;
+    right: 20px;
+    top: 17px;
+    color: rgb(18, 14, 16);
+    float: right;
+    border-color: rgb(61, 50, 57);
+    background-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.div3{
+    width: 450px;
+    position: absolute;
+    left: 18px;
+    top:95px;
+    height: 250px;
+    background-color:white;
+}
+.img1{
+    position: relative;
+    top: 20px;
+    bottom: 300px;
+    left: 20px;
+    width: 220px;
+    height: 220px;
+}
+.bitcoin1{
+    position:relative;
+    top:15px;
+    font-size: 20px;
+    float: right;
+    left: -80px;
+
+}
+.bitcoin2{
+    position:relative;
+    top:90px;
+    font-size: 20px;
+    float: right;
+    right: -7px;
+}
+.bitcoin3{
+    position:relative;
+    top:-60px;
+    font-size: 20px;
+    float: right;
+    right: 90px;
+}
+.first3{
+    position: absolute;
+    left: 20px;
+    font-size: 25px;
+}
+.second3{
+    position: absolute;
+    float: right;
+    right: 20px;
+    font-size: 18px;
+    box-shadow: 1px 1px 1px 2px rgb(218, 212, 212);
+}
+.third3{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    font-size: 17px;
+}
+.third4{
+    position: relative;
+    top:70px;
+    left: 180px;
+    font-size: 17px;
+}
+.third5{
+    position: relative;
+    float: right;
+    right: 50px;
+    bottom:-5px;
+    font-size: 17px;
+}
+.button3{
+    position: relative;
+    left: 20px;
+    bottom: -80px;
+    font-size: 20px;
+    font-weight:bold;
+    background-color: rgb(103, 86, 86);
+    color: black;
+    border-radius: 5px;
+    border-color: rgb(43, 37, 41);
+}
+.div4{
+    position: absolute;
+    right: 420px;
+    top:95px;
+    width: 450px;
+    height: 250px;
+    background-color: white;
+}
+.text{
+    position: relative;
+    font-size: small;
+    left: 10px;
+}
+.text span{
+    position: relative;
+    float: right;
+    right: 40px;
+    top:-15px
+}
+
+.div5{
+    position: absolute;
+    left: 18px;
+    top:360px;
+    width: 290px;
+    height: 250px;
+    background-color:white;
+}
+.week{
+    position: absolute;
+    left: 30px;
+    bottom: 21px;
+    font-size: 20px;
+}
+.year{
+    position: absolute;
+    left: 110px;
+    bottom: 21px;
+    font-size: 20px;
+}
+.time{
+    position: absolute;
+    right: 30px;
+    font-size: 20px;
+    float: right;
+    bottom: 21px;
+
+}
+.img4{
+    position: relative;
+    left: 1px;
+    top:10px;
+    width: 280px;
+    height: 100px;
+}
+.div6{
+    position: absolute;
+    left:330px;
+    top:360px;
+    width: 290px;
+    height: 250px;
+    background-color: white;
+}
+.div7{
+    position: absolute;
+    right: 420px;
+    top:360px;
+    width: 290px;
+    height: 250px;
+    background-color:white;
+}
+/* .div8{
+    position: absolute;
+    left: 18px;
+    top: 700px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+} */
+.img8{
+    position: relative;
+    left: 1px;
+    top:530px;
+    margin: 5px;
+    padding:10px;
+    width: 550px;
+    height: 280px;
+}
+.div9{
+    position: absolute; 
+   
+    left:585px;
+    top:620px;
+    /* bottom:-200px; */
+    width: 350px;
+    height: 280px;
+    background-color: white;
+}
+.jan{
+    position: absolute;
+    left: 20px;
+    font-size: 25px;
+
+}
+.feb{
+    position: absolute;
+    top: 20px;
+    float: right;
+    right: 45px;
+    background-color: white;
+    color: rgb(223, 6, 136);
+    border-radius: 5px;
+    border-color: lightgray;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.apr{
+    position: absolute;
+    left: 30px;
+    top:50px;
+    font-size: 20px;
+
+}
+.apr span{
+    position: absolute;
+    float: right;
+    right: -200px;
+}
+.may{
+    position: absolute;
+    left: 30px;
+    top:120px;
+    font-size: 20px;
+
+}
+.may span{
+    position: absolute;
+    float: right;
+    right: -200px;
+}
+.june{
+    position: absolute;
+    left: 30px;
+    top:180px;
+    font-size: 20px;
+
+}
+.june span{
+    position: absolute;
+    float: right;
+    right: -200px;
+}
+.div10{
+    position: absolute;
+    top:25px;
+    right: 20px;
+    width: 370px;
+    height: 890px;
+    background-color: white;
+}
+.last{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 110px;
+    height: 110px;
+}
+.sun{
+    position: absolute;
+    right:40px;
+    top:40px;
+    font-size: 22px;
+}
+.sun span{
+    font-size: 18px;
+    color:rgb(223, 6, 136) ;
+}
+.mon{
+    position: relative;
+    top: 15px;
+    left: 20px;
+    font-size: 20px;
+}
+.last1{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last1 span{
+    color: gray;
+    font-size: 17px;
+}
+.last2{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last2 span{
+    color: gray;
+    font-size: 17px;
+}
+.last3{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
+.last3 span{
+    color: gray;
+    font-size: 17px;
+}
+.thu{
+    position: relative;
+    left: 20px;
+    font-size: 25px;
+}
+.thu span button{
+    background-color: rgb(138, 129, 129);
+    color:rgb(16, 14, 16) ;
+    border-color: rgb(19, 18, 18);
+    border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+    left: 170px;
+    font-size: 20px;
+}
+.price1{
+    position: absolute;
+    left: 30px;
+    bottom:360px;
+    font-size: 25px;
+}
+.price2{
+    position: absolute;
+    left: 30px;
+    bottom:300px;
+    font-size: 25px;
+}
+.pink{
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    border: 1px;
+    background: linear-gradient( 90deg, rgb(116, 20, 84) 0%, rgb(174, 102, 161) 100%);
+    width: 350px;
+    height: 250px;
+}
+.pink img{
+    position: relative;
+    width: 130px;
+    height: 130px;
+    left: 110px;
+    top: -32px;
+}
+.white{
+    position: relative;
+    text-align: center;
+    top:-50px;
+    left: 5px;
+    color: white;
+}
+.pink button{
+    background-color:rgb(174, 102, 161);
+    color:white;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    position:absolute;
+    left: 108px;
+    bottom: 10px;
+}

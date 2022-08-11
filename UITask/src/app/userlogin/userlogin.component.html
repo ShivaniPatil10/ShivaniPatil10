@@ -1,0 +1,12 @@
+
+<div class="div1">
+    <h1>Login </h1>
+    <form [formGroup]="loginForm" (ngSubmit)="login()">
+    <input type="text" placeholder="Username" formControlName="Username"><br><br>
+    <input  type="password" placeholder="Password"formControlName="Password"><br><br><br>
+    <button>Login</button><br>
+    </form>
+    <a style="color:black; margin-top: 10px;text-decoration: none;font-weight:bolder;font-size: large;"
+     routerLink="/registration">New User? Click here to Register </a>
+</div>
+<!-- <router-outlet></router-outlet> -->
